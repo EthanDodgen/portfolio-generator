@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "yay you read me",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanDodgen/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanDodgen/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/EthanDodgen/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
